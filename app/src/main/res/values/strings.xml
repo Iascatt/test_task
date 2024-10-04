@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EM Тестовое задание</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_favourites">Избранное</string>
+    <string name="title_responses">Отклики</string>
+    <string name="title_messages">Сообщения</string>
+    <string name="title_profile">Профиль</string>
+    <string name="heart">Сердечко</string>
+    <string name="published_string">Опубликовано %1$s</string>
+
+    <string name="now_watching">Сейчас просматривает </string>
+    <plurals name="looking_string">
+        <item quantity="one">Сейчас просматривает %d человек</item>
+        <item quantity="two">Сейчас просматривают %d человека</item>
+        <item quantity="few">Сейчас просматривают %d человека</item>
+        <item quantity="many">Сейчас просматривают %d человек</item>
+        <item quantity="other">Сейчас просматривают %d человек</item>
+    </plurals>
+
+    <string name="my_link"><a href="http://somesite.com/">Click me!</a></string>
+    <plurals name="number_of_favs_string">
+        <item quantity="one">%d вакансия</item>
+        <item quantity="two">%d вакансии</item>
+        <item quantity="few">%d вакансии</item>
+        <item quantity="many">%d вакансий</item>
+        <item quantity="other">%d вакансий</item>
+    </plurals>
+</resources>
